@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://192.168.0.44:5432/sesion5
+    username: usuario
+    password: password
